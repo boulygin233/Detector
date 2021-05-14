@@ -5,3 +5,5 @@
 'labels': [], #(n_boxes) - циферка - лэйбл (1==рука, 2==товар)
 'scores': [], #(n_boxes) - уверенность в своём предсказании}
 #todo изменить формат выплевывания в удобный
+
+Checkpoint - https://drive.google.com/file/d/13w-f5c6gTMTVuMRl3-GjXky4OgZjujGz/view?usp=sharing
